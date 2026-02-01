@@ -1,37 +1,42 @@
 <h1 align="center">Hi 👋, I'm Darshan Ramagade</h1>
-<h3 align="center">Full Stack Developer | MERN Stack | Real-Time Systems | AI Projects</h3>
+<h3 align="center">Electronics & Telecommunication Engineer | Aspiring Full Stack Developer | MERN Learner</h3>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Final year B.Tech student (Electronics & Telecommunication)
-- 💻 Passionate about Full Stack Development & Real-Time Applications
-- 🔥 Building scalable MERN projects and AI-powered platforms
-- 🚗 Car enthusiast with strong interest in tech + innovation
-- 📈 Focused on learning, shipping projects, and building production-ready apps
+- 🎓 Final year B.Tech student in **Electronics & Telecommunication Engineering**
+- 💻 Passionate about full-stack development and real-world software projects
+- 🔄 Learning the MERN stack by building production-style applications
+- ⚡ Interested in real-time systems, AI platforms, and scalable web architecture
+- 🛠 Focused on improving problem-solving and practical engineering skills
+- 🚗 Enthusiastic about cars, technology, and innovation
+
+I believe in learning by building — every project is a step toward becoming a better engineer.
 
 ---
 
-## 🧠 Tech Stack
+## 🛠 Skills I'm Actively Working With
 
-### Frontend
+> Built projects using these technologies — continuously improving:
+
+**Frontend**
 - React.js
-- Tailwind CSS
 - JavaScript (ES6+)
 - HTML5 / CSS3
+- Tailwind CSS
 
-### Backend
+**Backend**
 - Node.js
 - Express.js
-- MongoDB / Mongoose
-- REST APIs
+- MongoDB & Mongoose
+- REST API development
 - JWT Authentication
-- Socket.IO
+- Socket.IO (real-time communication)
 
-### Tools & Platforms
+**Tools**
 - Git & GitHub
-- Vercel / Netlify
+- Vercel / Netlify deployment
 - Cloudinary
 - Postman
 - VS Code
@@ -41,55 +46,39 @@
 ## 🌟 Featured Projects
 
 ### 💬 QuickChat — Real-Time Chat Application
-Production-ready MERN chat platform with live messaging using Socket.IO, secure JWT authentication, image sharing, and online presence tracking.
+Full-stack real-time messaging platform built with MERN + Socket.IO featuring secure authentication, online user tracking, image sharing, and responsive UI.
 
-🔗 Repo: https://github.com/your-username/quickchat
+🔗 Live Demo: https://chat-app2-frontend-seven.vercel.app/login
 
 ---
 
 ### 🤖 Resume AI — Resume Analysis Platform
-AI-powered resume analyzer that matches resumes with job descriptions, detects skill gaps, and provides ATS optimization insights.
+Resume analysis web platform that matches resumes with job descriptions and highlights missing skills using NLP techniques.
 
 🔗 Live Demo: https://resume-aii.netlify.app/
 
 ---
 
-### 🌐 Car Modification Platform (ModElite)
-Interactive car customization booking platform with modern UI/UX and responsive design.
+## 🌐 Portfolio
+
+👉 **Portfolio Website:** https://ramagadedarshan.netlify.app/
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Darshan-Ramagade&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Darshan-Ramagade&theme=tokyonight" />
-</p>
-
----
-
-## 🧩 Currently Learning
+## 📈 Currently Learning
 
 - Advanced React patterns
-- System design fundamentals
-- Backend architecture
-- Real-time scalable systems
-- AI integrations in web apps
+- Backend architecture & system design
+- Scalable real-time applications
+- Clean code & best engineering practices
 
 ---
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/your-link
+- 💼 LinkedIn: https://www.linkedin.com/in/darshan-ramagade-35aba9264/
 - 📧 Email: darshanramagade07@gmail.com
-- 🌐 Portfolio: coming soon
 
 ---
 
-## ⚡ Fun Fact
-
-> I enjoy building real-world apps more than watching tutorials.
-
----
-
-⭐ *Always open to collaboration, internships, and exciting projects!*
+⭐ *Engineering student building real-world software one project at a time.*
