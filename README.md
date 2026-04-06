@@ -59,20 +59,6 @@ I believe in learning by building — every project is a step toward becoming a 
 
 ## 🌟 Featured Projects
 
-### 💬 QuickChat — Real-Time Chat Application
-Full-stack real-time messaging platform built with MERN + Socket.IO featuring secure authentication, online user tracking, image sharing, and responsive UI.
-
-🔗 Live Demo: https://chat-app2-frontend-seven.vercel.app/login
-
----
-
-### 🤖 Resume AI — Resume Analysis Platform
-Resume analysis web platform that matches resumes with job descriptions and highlights missing skills using NLP techniques.
-
-🔗 Live Demo: https://resume-aii.netlify.app/
-
----
-
 ### 🚀 LifoTix — Student Life Management System *(In Progress)*
 
 All-in-one productivity dashboard for students combining multiple daily needs into one platform:
@@ -91,6 +77,20 @@ All-in-one productivity dashboard for students combining multiple daily needs in
 
 ---
 
+### 💬 QuickChat — Real-Time Chat Application
+Full-stack real-time messaging platform built with MERN + Socket.IO featuring secure authentication, online user tracking, image sharing, and responsive UI.
+
+🔗 Live Demo: https://chat-app2-frontend-seven.vercel.app/login
+
+---
+
+### 🤖 Resume AI — Resume Analysis Platform
+Resume analysis web platform that matches resumes with job descriptions and highlights missing skills using NLP techniques.
+
+🔗 Live Demo: https://resume-aii.netlify.app/
+
+---
+
 ## 🌐 Portfolio
 
 👉 **Portfolio Website:** https://darshan-ramagade-portfolio.vercel.app/
@@ -99,11 +99,11 @@ All-in-one productivity dashboard for students combining multiple daily needs in
 
 ## 📈 Currently Learning
 
+- Automation testing
 - Advanced React patterns
 - Backend architecture & system design
 - Scalable real-time applications
 - Clean code & best engineering practices
-- Basics of automation testing
 
 ---
 
