@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Darshan Ramagade</h1>
-<h3 align="center">Electronics & Telecommunication Engineer | Aspiring Full Stack Developer | MERN Learner</h3>
+<h3 align="center">Electronics & Telecommunication Engineer | Frontend Developer | QA Enthusiast</h3>
 
 ---
 
